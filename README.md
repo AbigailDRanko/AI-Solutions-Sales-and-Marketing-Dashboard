@@ -126,7 +126,7 @@ Type: Float (ratio)
 Description: Percentage of sessions that resulted in a successful conversion (purchase, signup, etc.).
 Use Case: Core performance indicator for marketing campaigns, landing pages, and sales funnels.
 
-INSIGHTS
+# INSIGHTS
 
 1. Sales Performance
 
@@ -186,7 +186,7 @@ Page visits have fluctuated significantly across the 15-year horizon.
 October 2016 recorded the lowest traffic with only 21 visits, highlighting historic troughs.
 Overall, traffic patterns reinforce the importance of campaign-driven spikes and the ongoing necessity of SEO + performance optimization for consistent engagement.
 
-RECOMMENDATIONS
+# RECOMMENDATIONS
 
 Scale Custom Package & AI Assistant (Flagship Revenue Drivers)
 
